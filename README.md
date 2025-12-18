@@ -1,6 +1,6 @@
 ## 👋 Hey there, I’m glad you’re here!
 
-Welcome to my little corner of GitHub!
+Welcome to my little corner of GitHub!  
 I’m passionate **Data Analyst** focused on transforming raw data into meaningful insights that support data-driven business decisions.
 
 ---
